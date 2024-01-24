@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'test2_page.dart';
+import 'news_feed_page1.dart';
 
 class CollapsingAppbarWithTabsPage extends StatelessWidget {
   const CollapsingAppbarWithTabsPage({Key? key}) : super(key: key);

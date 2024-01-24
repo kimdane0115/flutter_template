@@ -1,4 +1,4 @@
-import 'test_page.dart';
+import 'collapsing_appbarwith_tabs_page.dart';
 
 import '../../../../core/constants/index.dart';
 
