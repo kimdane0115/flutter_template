@@ -39,6 +39,9 @@ dependencies:
   freezed_annotation: ^2.4.1
   flutter_riverpod: ^2.4.9
   flutter_flavorizr: ^2.2.1
+  firebase_storage: ^11.6.0
+  cloud_firestore: ^4.14.0
+  firebase_core: ^2.24.2
 
 dev_dependencies:
   flutter_test:
