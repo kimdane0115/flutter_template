@@ -54,3 +54,5 @@ packages/
 **/report.xml
 
 ios/Podfile.lock
+
+pubspec.lock
