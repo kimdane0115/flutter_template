@@ -63,7 +63,7 @@ flavors:
       applicationId: "com.example.flutter_template"
       generateDummyAssets: false
       firebase:
-        config: ".firebase/prod/GoogleService-Info.plist"
+        config: ".firebase/prod/google-services.json"
 
     ios:
       bundleId: "com.example.flutterTemplate"
