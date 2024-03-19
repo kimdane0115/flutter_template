@@ -30,14 +30,14 @@ flavors:
     android:
       applicationId: "com.example.flutter_template.dev"
       generateDummyAssets: false
-      # firebase:
-      #   config: ".firebase/dev/google-services.json"
+      firebase:
+        config: ".firebase/dev/google-services.json"
 
     ios:
-      bundleId: "com.example.flutter_template.dev"
+      bundleId: "com.example.flutterTemplate.dev"
       generateDummyAssets: false
-      # firebase:
-      #   config: ".firebase/dev/GoogleService-Info.plist"
+      firebase:
+        config: ".firebase/dev/GoogleService-Info.plist"
 
   staging:
     app:
@@ -46,14 +46,14 @@ flavors:
     android:
       applicationId: "com.example.flutter_template.staging"
       generateDummyAssets: false
-      # firebase:
-      #   config: ".firebase/staging/google-services.json"
+      firebase:
+        config: ".firebase/staging/google-services.json"
 
     ios:
-      bundleId: "com.example.flutter_template.staging"
+      bundleId: "com.example.flutterTemplate.staging"
       generateDummyAssets: false
-      # firebase:
-      #   config: ".firebase/staging/GoogleService-Info.plist"
+      firebase:
+        config: ".firebase/staging/GoogleService-Info.plist"
 
   prod:
     app:
@@ -62,11 +62,11 @@ flavors:
     android:
       applicationId: "com.example.flutter_template"
       generateDummyAssets: false
-      # firebase:
-      #   config: ".firebase/prod/GoogleService-Info.plist"
+      firebase:
+        config: ".firebase/prod/GoogleService-Info.plist"
 
     ios:
-      bundleId: "com.example.flutter_template"
+      bundleId: "com.example.flutterTemplate"
       generateDummyAssets: false
-      # firebase:
-      #   config: ".firebase/prod/GoogleService-Info.plist"
+      firebase:
+        config: ".firebase/prod/GoogleService-Info.plist"
