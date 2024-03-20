@@ -25,7 +25,7 @@ flavorizr:
 flavors:
   dev:
     app:
-      name: "flutterTemplate(dev)"
+      name: "플러터템플릿(dev)"
 
     android:
       applicationId: "com.example.flutter_template.dev"
@@ -41,7 +41,7 @@ flavors:
 
   staging:
     app:
-      name: "flutterTemplate(staging)"
+      name: "플러터템플릿(staging)"
 
     android:
       applicationId: "com.example.flutter_template.staging"
@@ -57,7 +57,7 @@ flavors:
 
   prod:
     app:
-      name: "flutterTemplate"
+      name: "플러터템플릿"
 
     android:
       applicationId: "com.example.flutter_template"
